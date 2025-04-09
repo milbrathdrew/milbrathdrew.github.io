@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://sixminutesout.com
+
+# Sitemaps
+Sitemap: https://sixminutesout.com/sitemap.xml
